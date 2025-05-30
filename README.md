@@ -49,12 +49,4 @@ O conjunto de dados contém **12 colunas**, descritas a seguir:
 
 ---
 
-###  Estrutura do Projeto
 
-```text
-consumo_energia/
-├── data/           # Dados brutos (.csv)
-├── notebooks/      # Notebooks Jupyter
-├── scripts/        # Scripts auxiliares em Python
-├── figures/        # Imagens e gráficos gerados
-└── README.md       # Este documento
